@@ -1,0 +1,75 @@
+---
+title: "Sleep Health & Lifestyle Analysis"
+description: "Regression & Diagnostics - Class Rank: Top 1%"
+date: 2025-06-01
+image: "sleep.jpg"
+about:
+  template: solana
+---
+**Class Rank:** 🏆 Top 1% | **Role:** Team Lead & Statistical Analyst
+
+---
+
+## 💤 The Mission
+**How does our daily grind affect our nightly rest?**
+
+We spend roughly one-third of our lives asleep, yet the factors determining the *quantity* of that sleep remain complex. Using the **Kaggle Sleep Health & Lifestyle dataset**, this project applies rigorous statistical modeling to quantify how age, physical activity, and stress interact to determine sleep duration.
+
+> *We moved beyond simple correlations to build a robust predictive model, identifying exactly which lifestyle changes yield the best returns on rest.* 
+
+---
+
+## 📉 The Analysis
+*From raw data to refined insight.*
+
+### 01. The Baseline Challenge
+**Diagnosing the Model**
+Our initial exploration revealed significant relationships, but the raw data violated key regression assumptions. Diagnostic plots highlighted **non-linearity** and **heteroscedasticity** (uneven variance), meaning a standard linear model was insufficient for accurate prediction.
+
+### 🛠️ 02. Engineering the Solution
+**Transformation & Optimization**
+To address these structural issues, we engineered features using **Power Transformations (bcPower)** to normalize predictors like Age, Stress, and Activity.
+
+* **Variable Selection:** We utilized **Stepwise Regression (AIC)** to strip away noise, isolating only the most statistically significant predictors.
+
+### 🧩 03. The Final Model
+**Precision Tuning**
+The optimized model achieved an **Adjusted $R^2 \approx 0.83$**, explaining 83% of the variance in sleep duration.
+
+* **Outcome:** Residual errors were minimized to 0.046, creating a highly reliable framework for predicting sleep outcomes.
+
+---
+
+## 🔍 Key Findings
+*What the data says about sleeping better.*
+
+* **Quality Equals Quantity:** Sleep quality was the strongest positive predictor—better sleep depth significantly correlates with longer duration.
+
+* **Move to Snooze:** Physical activity levels showed a strong positive correlation with sleep duration.
+
+* **The Age Factor:** Interestingly, age showed a slight negative correlation; as we get older, sleep duration tends to decrease marginally (-0.02% per unit increase).
+
+* **The "Daily Steps" Paradox:** While general physical activity is good, raw "Daily Steps" showed a negligible or slightly negative impact, suggesting that *intensity* of exercise matters more than just step count
+
+---
+
+## ⚙️ Methodology & Tech Stack
+*The statistical engine.*
+
+| **Component** | **Tools & Methods** |
+| :--- | :--- |
+| **Language** | **R** |
+| **Modeling** | Linear Regression, Stepwise Selection (AIC/BIC)|
+| **Feature Eng.** | Power Transformations (Box-Cox), Log-Level Transformations|
+| **Diagnostics** | Residual Analysis (Q-Q Plots, Scale-Location)|
+
+---
+
+## 👥 Project Team & Recognition
+
+**Achievement**
+🏆 **Ranked Top 1% of Class**
+*Recognized for advanced diagnostic handling and robust model optimization.*
+
+**The Team**
+Led a 6-member research team to engineer these transformations and produce targeted lifestyle recommendations.

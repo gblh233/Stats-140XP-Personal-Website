@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-06-01">
+<meta name="description" content="Regression &amp; Diagnostics - Class Rank: Top 1%">
 
-<title>Internship – Yuyao Huang</title>
+<title>Sleep Health &amp; Lifestyle Analysis – Yuyao Huang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,8 +70,37 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -80,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Yuyao Huang</span>
     </a>
   </div>
@@ -91,15 +121,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">Internship</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Projects.html"> 
+    <a class="nav-link" href="../Projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -116,80 +146,140 @@ ul.task-list li input[type="checkbox"] {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
-   
   <ul>
-  <li><a href="#gf-securities-co.-june-2025-sep-2025" id="toc-gf-securities-co.-june-2025-sep-2025" class="nav-link active" data-scroll-target="#gf-securities-co.-june-2025-sep-2025"><strong>GF Securities Co.&nbsp;June 2025-Sep 2025</strong></a></li>
-  <li><a href="#zju-joint-innovation-investment-june-2024-sep-2024" id="toc-zju-joint-innovation-investment-june-2024-sep-2024" class="nav-link" data-scroll-target="#zju-joint-innovation-investment-june-2024-sep-2024"><strong>ZJU Joint Innovation Investment June 2024-Sep 2024</strong></a></li>
-  <li><a href="#applify-ai-sep-2023-dec-2023" id="toc-applify-ai-sep-2023-dec-2023" class="nav-link" data-scroll-target="#applify-ai-sep-2023-dec-2023"><strong>Applify AI Sep 2023-Dec 2023</strong></a></li>
-  <li><a href="#shanghai-fuli-technology-co.-magnet-finance-aug-2022-sep-2022" id="toc-shanghai-fuli-technology-co.-magnet-finance-aug-2022-sep-2022" class="nav-link" data-scroll-target="#shanghai-fuli-technology-co.-magnet-finance-aug-2022-sep-2022"><strong>Shanghai Fuli Technology Co.&nbsp;(Magnet Finance) Aug 2022-Sep 2022</strong></a></li>
+  <li><a href="#the-mission" id="toc-the-mission" class="nav-link active" data-scroll-target="#the-mission">💤 The Mission</a></li>
+  <li><a href="#the-analysis" id="toc-the-analysis" class="nav-link" data-scroll-target="#the-analysis">📉 The Analysis</a>
+  <ul class="collapse">
+  <li><a href="#the-baseline-challenge" id="toc-the-baseline-challenge" class="nav-link" data-scroll-target="#the-baseline-challenge">01. The Baseline Challenge</a></li>
+  <li><a href="#engineering-the-solution" id="toc-engineering-the-solution" class="nav-link" data-scroll-target="#engineering-the-solution">🛠️ 02. Engineering the Solution</a></li>
+  <li><a href="#the-final-model" id="toc-the-final-model" class="nav-link" data-scroll-target="#the-final-model">🧩 03. The Final Model</a></li>
+  </ul></li>
+  <li><a href="#key-findings" id="toc-key-findings" class="nav-link" data-scroll-target="#key-findings">🔍 Key Findings</a></li>
+  <li><a href="#methodology-tech-stack" id="toc-methodology-tech-stack" class="nav-link" data-scroll-target="#methodology-tech-stack">⚙️ Methodology &amp; Tech Stack</a></li>
+  <li><a href="#project-team-recognition" id="toc-project-team-recognition" class="nav-link" data-scroll-target="#project-team-recognition">👥 Project Team &amp; Recognition</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-about-solana column-body">
+  <div class="about-entity">
+    <div class="entity-contents">
+      <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Internship</h1>
+<h1 class="title">Sleep Health &amp; Lifestyle Analysis</h1>
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
+<div>
+  <div class="description">
+    Regression &amp; Diagnostics - Class Rank: Top 1%
   </div>
-  
+</div>
+<div class="quarto-title-meta">
+    <div>
+    <div class="quarto-title-meta-heading">last updated</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 1, 2025</p>
+    </div>
+  </div>
+  </div>
+</header> 
+      <div class="about-contents"><main class="content" id="quarto-document-content">
 
-
-</header>
-
-
-<section id="gf-securities-co.-june-2025-sep-2025" class="level3">
-<h3 class="anchored" data-anchor-id="gf-securities-co.-june-2025-sep-2025"><strong>GF Securities Co.&nbsp;June 2025-Sep 2025</strong></h3>
+<p><strong>Class Rank:</strong> 🏆 Top 1% | <strong>Role:</strong> Team Lead &amp; Statistical Analyst</p>
+<hr>
+<section id="the-mission" class="level2">
+<h2 data-anchor-id="the-mission">💤 The Mission</h2>
+<p><strong>How does our daily grind affect our nightly rest?</strong></p>
+<p>We spend roughly one-third of our lives asleep, yet the factors determining the <em>quantity</em> of that sleep remain complex. Using the <strong>Kaggle Sleep Health &amp; Lifestyle dataset</strong>, this project applies rigorous statistical modeling to quantify how age, physical activity, and stress interact to determine sleep duration.</p>
+<blockquote class="blockquote">
+<p><em>We moved beyond simple correlations to build a robust predictive model, identifying exactly which lifestyle changes yield the best returns on rest.</em></p>
+</blockquote>
+<hr>
+</section>
+<section id="the-analysis" class="level2">
+<h2 data-anchor-id="the-analysis">📉 The Analysis</h2>
+<p><em>From raw data to refined insight.</em></p>
+<section id="the-baseline-challenge" class="level3">
+<h3 data-anchor-id="the-baseline-challenge">01. The Baseline Challenge</h3>
+<p><strong>Diagnosing the Model</strong> Our initial exploration revealed significant relationships, but the raw data violated key regression assumptions. Diagnostic plots highlighted <strong>non-linearity</strong> and <strong>heteroscedasticity</strong> (uneven variance), meaning a standard linear model was insufficient for accurate prediction.</p>
+</section>
+<section id="engineering-the-solution" class="level3">
+<h3 data-anchor-id="engineering-the-solution">🛠️ 02. Engineering the Solution</h3>
+<p><strong>Transformation &amp; Optimization</strong> To address these structural issues, we engineered features using <strong>Power Transformations (bcPower)</strong> to normalize predictors like Age, Stress, and Activity.</p>
 <ul>
-<li>Produced 3 investment evaluation reports that supported portfolio recommendations; modeled equity reduction strategies for 2 listed firms under regulatory/tax constraints to optimize post-sale returns.</li>
-<li>Partnered with clients on allocation/risk; delivered actionable asset-mix plans.</li>
+<li><strong>Variable Selection:</strong> We utilized <strong>Stepwise Regression (AIC)</strong> to strip away noise, isolating only the most statistically significant predictors.</li>
 </ul>
 </section>
-<section id="zju-joint-innovation-investment-june-2024-sep-2024" class="level3">
-<h3 class="anchored" data-anchor-id="zju-joint-innovation-investment-june-2024-sep-2024"><strong>ZJU Joint Innovation Investment June 2024-Sep 2024</strong></h3>
+<section id="the-final-model" class="level3">
+<h3 data-anchor-id="the-final-model">🧩 03. The Final Model</h3>
+<p><strong>Precision Tuning</strong> The optimized model achieved an <strong>Adjusted <span class="math inline">\(R^2 \approx 0.83\)</span></strong>, explaining 83% of the variance in sleep duration.</p>
 <ul>
-<li>Built structured datasets from industry reports and financial statements.</li>
-<li>Applied regression and comparable-company analysis in Python to generate reports for private equity and venture capital investment evaluations.</li>
-<li>Gained hands-on exposure to private equity and venture capital processes, including due diligence, valuation modeling, and investment drafting.</li>
+<li><strong>Outcome:</strong> Residual errors were minimized to 0.046, creating a highly reliable framework for predicting sleep outcomes.</li>
 </ul>
+<hr>
 </section>
-<section id="applify-ai-sep-2023-dec-2023" class="level3">
-<h3 class="anchored" data-anchor-id="applify-ai-sep-2023-dec-2023"><strong>Applify AI Sep 2023-Dec 2023</strong></h3>
-<ul>
-<li>Designed and administered a survey to ≈320 high school respondents</li>
-<li>Cleaned data and ran regression and k-means clustering to identify 4 customer segments and price-sensitivity patterns.</li>
-<li>Delivered a recommendations report prioritizing features and pricing tiers, informing product roadmap discussions.</li>
-</ul>
 </section>
-<section id="shanghai-fuli-technology-co.-magnet-finance-aug-2022-sep-2022" class="level3">
-<h3 class="anchored" data-anchor-id="shanghai-fuli-technology-co.-magnet-finance-aug-2022-sep-2022"><strong>Shanghai Fuli Technology Co.&nbsp;(Magnet Finance) Aug 2022-Sep 2022</strong></h3>
+<section id="key-findings" class="level2">
+<h2 data-anchor-id="key-findings">🔍 Key Findings</h2>
+<p><em>What the data says about sleeping better.</em></p>
 <ul>
-<li>Conducted market research and loan promotion analysis</li>
-<li>Built customer segments via statistical classification, informing targeted outreach and marketing optimization</li>
+<li><p><strong>Quality Equals Quantity:</strong> Sleep quality was the strongest positive predictor—better sleep depth significantly correlates with longer duration.</p></li>
+<li><p><strong>Move to Snooze:</strong> Physical activity levels showed a strong positive correlation with sleep duration.</p></li>
+<li><p><strong>The Age Factor:</strong> Interestingly, age showed a slight negative correlation; as we get older, sleep duration tends to decrease marginally (-0.02% per unit increase).</p></li>
+<li><p><strong>The “Daily Steps” Paradox:</strong> While general physical activity is good, raw “Daily Steps” showed a negligible or slightly negative impact, suggesting that <em>intensity</em> of exercise matters more than just step count</p></li>
 </ul>
+<hr>
+</section>
+<section id="methodology-tech-stack" class="level2">
+<h2 data-anchor-id="methodology-tech-stack">⚙️ Methodology &amp; Tech Stack</h2>
+<p><em>The statistical engine.</em></p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><strong>Component</strong></th>
+<th style="text-align: left;"><strong>Tools &amp; Methods</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Language</strong></td>
+<td style="text-align: left;"><strong>R</strong></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Modeling</strong></td>
+<td style="text-align: left;">Linear Regression, Stepwise Selection (AIC/BIC)</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Feature Eng.</strong></td>
+<td style="text-align: left;">Power Transformations (Box-Cox), Log-Level Transformations</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Diagnostics</strong></td>
+<td style="text-align: left;">Residual Analysis (Q-Q Plots, Scale-Location)</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="project-team-recognition" class="level2">
+<h2 data-anchor-id="project-team-recognition">👥 Project Team &amp; Recognition</h2>
+<p><strong>Achievement</strong> 🏆 <strong>Ranked Top 1% of Class</strong> <em>Recognized for advanced diagnostic handling and robust model optimization.</em></p>
+<p><strong>The Team</strong> Led a 6-member research team to engineer these transformations and produce targeted lifestyle recommendations.</p>
 
 
 </section>
-
-</main> <!-- /main -->
+</main></div>
+    </div>
+    <img src="sleep.jpg" class="about-image
+  rounded " style="width: 15em;">
+  </div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     

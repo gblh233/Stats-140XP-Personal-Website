@@ -1,0 +1,64 @@
+---
+title: "Fires from Space: Australia"
+description: "Geospatial Modeling & Dashboards - Class Rank: Top 1%"
+date: 2025-06-01
+image: "Firestorm.jpg"
+about:
+  template: solana
+  links:
+    - icon: link
+      text: View Project Website
+      href: https://firestorm.humspace.ucla.edu/
+---
+**Class Rank:** 🏆 Top 1% | **Role:** Data Analyst & Geospatial Modeler 
+
+
+## 🌍 The Mission
+**From the sky to the ground, we visualize risk.**
+
+Using advanced satellite telemetry and geospatial analysis, **Fire Storm** explores the patterns and intensity of the devastating "Black Summer" wildfires across Australia. We move beyond simple fire counts to reveal how manageable fires escalated into uncontrollable events, offering critical insights into climate change, land use, and disaster preparedness.
+
+> *“We visualize where fires are burning and what they reveal about the air we breathe and the land we use.”*
+
+---
+
+## 📊 The Analysis
+*Explaining the crisis through data.*
+
+### 🛰️ 01. The View from Space
+We processed **240+ days** of continuous satellite imagery. By analyzing heat signatures over time, we tracked not just the location, but the **velocity and intensity** of the fire spread across the continent.
+
+### 📈 02. The "Black Summer" Escalation
+Our models identified the precise moments where fire intensity spiked.
+
+* **Key Finding:** We uncovered specific correlation patterns between high-intensity heat clusters and rapid, hazardous declines in air quality.
+
+### 🏘️ 03. Ground-Level Impact
+It isn't just about the burns; it's about the aftermath.
+
+* **Air Quality:** Visualized the drift of toxic smoke plumes into major urban centers.
+
+* **Land Use:** Overlaid fire paths with agricultural and residential zoning to assess economic and social vulnerability.
+
+---
+
+## 🛠️ Methodology & Tech Stack
+*How we built it.*
+
+| **Component** | **Tools & Methods** |
+| :--- | :--- |
+| **Backend Analysis** | **Python** (Pandas, NumPy) for processing large-scale climate datasets. |
+| **Visualization** | **Tableau** for interactive dashboards and geospatial mapping. |
+| **Modeling** | Spatiotemporal analysis linking fire intensity to AQI (Air Quality Index). |
+| **Data Sources** | Satellite telemetry, government climate records, and land-use databases. |
+
+---
+
+## 👥 Project Team & Recognition
+
+**Achievement**
+🏆 **Ranked Top 1% of Class**
+*Awarded for technical depth, analytical execution, and compelling data storytelling.*
+
+**The Team**
+Collaborated with a 4-member research team to transform raw satellite imagery into actionable environmental intelligence, directly informing discussions on climate risk.

@@ -1,0 +1,79 @@
+---
+title: "Student Habits and Academic Success: A Behavioral Analysis"
+description: "Regression & Diagnostics - Class Rank: Top 1%"
+date: 2025-06-01
+image: "study.jpg"
+about:
+  template: solana
+---
+**Class Rank:** 🏆 Top 1% | **Role:** Data Analyst & Visual Storyteller
+
+---
+
+## 📚 The Mission
+**Grades aren't just about IQ. They're about habits.**
+
+We often blame academic struggles on external factors like funding or background. But what if the secret to success lies in the small, daily choices we make?
+Using a dataset of **1,000 students**, this project applies behavioral analysis and predictive modeling to answer a simple question: *How do sleep, screen time, and study routines mathematically determine your GPA?*
+
+> *We moved beyond intuition to quantify exactly how much an hour of Netflix costs you in exam points.*
+
+---
+
+## 📉 The Analysis
+*Decoding the student lifestyle.*
+
+### 01. The Hypothesis
+**The "Hidden" Variables**
+Most research focuses on fixed demographics. We flipped the script to focus on **controllable behaviors**.
+
+* **Input:** Sleep hours, study duration, attendance, social media usage, and Netflix consumption.
+
+* **Target:** Final Academic Performance (Exam Score).
+
+### 🧮 02. The Model
+**Stepwise Precision**
+We didn't just look for correlations; we built a prediction engine. Using **Stepwise Multiple Regression**, we isolated the variables that actually move the needle.
+
+* **Performance:** The final model achieved an **Adjusted $R^2 \approx 0.90$**, meaning we could explain nearly 90% of the variance in exam scores based purely on lifestyle habits.
+
+### 📊 03. The Visualization
+**Seeing the Trade-offs**
+We created a visual ecosystem to make the data digestible:
+* **Correlation Heatmaps:** Instantly highlighting the strongest positive (Study Time) and negative (Screen Time) drivers.
+
+* **Comparative Bar Charts:** contrasting high-performing vs. at-risk student profiles.
+
+---
+
+## 🔍 Key Findings
+*The data-backed recipe for an A+.*
+
+* **The Attendance Multiplier:** Attendance wasn't just helpful; it was the single strongest predictor of success.
+
+* **The "Binge" Tax:** Passive screen time (Netflix/Social Media) showed a quantifiable negative correlation with exam scores—every hour spent binging had a measurable grade penalty.
+
+* **Sleep is Study:** Contrary to the "all-nighter" culture, data confirmed that adequate sleep is statistically linked to higher performance.
+
+---
+
+## ⚙️ Methodology & Tech Stack
+*From behavioral data to actionable insight.*
+
+| **Component** | **Tools & Methods** |
+| :--- | :--- |
+| **Data Processing** | **Python/R** (Data Cleaning & Feature Selection) |
+| **Modeling** | Stepwise Multiple Linear Regression |
+| **Visualization** | Correlation Matrices, Scatter Plots, Distribution Histograms |
+| **Dataset** | Kaggle: Student Habits vs. Academic Performance ($n=1000$) |
+
+---
+
+## 👥 Project Team & Recognition
+
+**Achievement**
+🏆 **Ranked Top 1% of Class**
+*Awarded for the precision of the predictive model and the clarity of the behavioral insights.*
+
+**The Team**
+Collaborated with **4 team menbers** to translate complex behavioral data into a decision-ready report for academic support systems.

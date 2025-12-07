@@ -8,6 +8,10 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Projects.qmd
+      
+      
+      
       
 page-footer:
   right: "&copy; 2026, Yuyao Huang"

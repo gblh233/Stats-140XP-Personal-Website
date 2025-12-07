@@ -1,0 +1,69 @@
+---
+title: "DataFest 2025: Commercial Site Selection"
+description: "Competitive Analysis"
+date: 2025-06-01
+image: "datafest.jpg"
+about:
+  template: solana
+---
+**Competition:** 🏆 DataFest 2025 (Finalist) | **Role:** Team Lead & Data Strategist
+
+---
+
+## 🌐 The Mission
+**If work has changed, shouldn't the workplace change too?**
+
+The "Return to Office" isn't just about *when*—it's about *where*. Using a massive dataset of commercial leases from 2018 to 2024, this project investigates how the COVID-19 pandemic fundamentally altered the DNA of the office market. We answer the critical question: *Are companies actually abandoning the city, or are they just upgrading their address?* 
+
+> *We analyzed the shift in square footage to prove that the future of work isn't remote—it's hybrid, high-quality, and geographically flexible.*
+
+---
+
+## 🏙️ The Analysis
+*Tracking the migration of capital and companies.*
+
+### 01. The "Flight to Quality"
+**Class A vs. Class O**
+We tracked lease volumes across building classes. The data revealed a decisive split:
+
+* **Pre-Pandemic:** Major leases were roughly split, with Class A holding ~65% of the market.
+
+* **The Shift:** Post-COVID, the share of Class A (premium) leases surged to over **70%**. Companies are downsizing footprint but upgrading quality to entice workers back.
+
+### 🏡 02. The Suburban Surge
+**CBD vs. The Burbs**
+We analyzed the tension between Central Business Districts (CBD) and Suburban locations.
+
+* **The Shock:** During the height of the pandemic (2020), suburban leasing spiked to **60%**, overtaking downtowns.
+
+* **The Recovery:** Post-2022, the market began correcting. CBD leasing is recovering, signaling a return to equilibrium rather than the "death of the city".
+
+### 🗺️ 03. The Strategy
+**The "Hybrid" Portfolio**
+Based on the data, we formulated a site selection strategy for 2025:
+
+* **Blend Locations:** Maintain a core CBD presence for prestige while opening suburban satellites for flexibility.
+
+* **Reposition Assets:** Investors holding lower-quality (Class O) stock must renovate immediately to survive.
+
+---
+
+## ⚙️ Methodology & Tech Stack
+
+| **Component** | **Tools & Methods** |
+| :--- | :--- |
+| **Data Cleaning** | **Python** (Pandas) for processing raw lease transaction logs. |
+| **Analysis** | Time series analysis of lease volume and market share. |
+| **Strategy** | Site selection modeling based on competitive density and quality tier. |
+| **Context** | Commercial Real Estate (CRE) domain research. |
+
+---
+
+## 👥 Project Team & Recognition
+
+**Achievement**
+🏆 **DataFest 2025 Finalist**
+*Selected for the final round of competition for delivering a blended urban–suburban selection plan backed by clear visual evidence.*
+
+**The Team**
+Led a 5-member team to clean complex leasing data and identify the "Class A Rise" and "CBD Recovery" trends.

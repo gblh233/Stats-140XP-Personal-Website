@@ -2,16 +2,16 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Internship",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "GF Securities Co. June 2025-Sep 2025\n\nProduced 3 investment evaluation reports that supported portfolio recommendations; modeled equity reduction strategies for 2 listed firms under regulatory/tax constraints to optimize post-sale returns.\nPartnered with clients on allocation/risk; delivered actionable asset-mix plans.\n\n\n\nZJU Joint Innovation Investment June 2024-Sep 2024\n\nBuilt structured datasets from industry reports and financial statements.\nApplied regression and comparable-company analysis in Python to generate reports for private equity and venture capital investment evaluations.\nGained hands-on exposure to private equity and venture capital processes, including due diligence, valuation modeling, and investment drafting.\n\n\n\nApplify AI Sep 2023-Dec 2023\n\nDesigned and administered a survey to ≈320 high school respondents\nCleaned data and ran regression and k-means clustering to identify 4 customer segments and price-sensitivity patterns.\nDelivered a recommendations report prioritizing features and pricing tiers, informing product roadmap discussions.\n\n\n\nShanghai Fuli Technology Co. (Magnet Finance) Aug 2022-Sep 2022\n\nConducted market research and loan promotion analysis\nBuilt customer segments via statistical classification, informing targeted outreach and marketing optimization"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Yuyao Huang",
     "section": "",
-    "text": "Download: CV\nCollaborative, fast-learning Data Science major with strong communication and a bias for action. I thrive in cross-functional teams, take initiative, and adapt quickly to new challenges. Comfortable moving from data wrangling and analysis to modeling and lightweight pipelines, I use Python/R to convert messy data into clear insights and reproducible workflows. Spring 2026 and subsequent work in Data Science, Data Analytics, or Data Engineering to contribute immediately and deliver measurable value."
+    "text": "Collaborative, fast-learning Data Science major with strong communication and a bias for action. I thrive in cross-functional teams, take initiative, and adapt quickly to new challenges. Comfortable moving from data wrangling and analysis to modeling and lightweight pipelines, I use Python/R to convert messy data into clear insights and reproducible workflows. Spring 2026 and subsequent work in Data Science, Data Analytics, or Data Engineering to contribute immediately and deliver measurable value."
   },
   {
     "objectID": "index.html#education",
@@ -19,13 +19,6 @@
     "title": "Yuyao Huang",
     "section": "Education",
     "text": "Education\nUniversity of California, Los Angeles | B.S. in Statistics and Data Science | Sep 2024 - June 2026"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Yuyao Huang",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   },
   {
     "objectID": "index.html#fires-from-space-australia-geospatial-modeling-dashboards-class-rank-top-1",
@@ -54,5 +47,236 @@
     "title": "Yuyao Huang",
     "section": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection",
     "text": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection\n\n· Led a 5 member team; cleaned post-COVID leasing data in Python; identified Class A rise, suburban spike, and CBD recovery to guide site strategy.\n· Advanced to the second round, delivering a blended urban–suburban selection plan with visual evidence."
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Student Habits and Academic Success: A Behavioral Analysis\n\n\nRegression & Diagnostics - Class Rank: Top 1%\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nFires from Space: Australia\n\n\nGeospatial Modeling & Dashboards - Class Rank: Top 1%\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nSleep Health & Lifestyle Analysis\n\n\nRegression & Diagnostics - Class Rank: Top 1%\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nDataFest 2025: Commercial Site Selection\n\n\nCompetitive Analysis\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "Projects.html#fires-from-space-australia-geospatial-modeling-dashboards-class-rank-top-1",
+    "href": "Projects.html#fires-from-space-australia-geospatial-modeling-dashboards-class-rank-top-1",
+    "title": "Projects",
+    "section": "",
+    "text": "· Collaborated with a 4 member team to analyze 240+ days of satellite and climate data; spatiotemporal analysis surfaced escalation patterns during the 2019-20 “Black Summer.”\n· Built geospatial models and interactive dashboards (Python, Tableau) linking fire intensity, air quality, and land use, informing climate-risk and preparedness discussions."
+  },
+  {
+    "objectID": "Projects.html#student-habits-and-academic-success-a-behavioral-analysis-predictive-modeling-class-rank-top-1",
+    "href": "Projects.html#student-habits-and-academic-success-a-behavioral-analysis-predictive-modeling-class-rank-top-1",
+    "title": "Projects",
+    "section": "Student Habits and Academic Success: A Behavioral Analysis (Predictive Modeling) Class Rank: Top 1%",
+    "text": "Student Habits and Academic Success: A Behavioral Analysis (Predictive Modeling) Class Rank: Top 1%\n\n· Modeled a dataset of 1000 students; stepwise multiple regression achieved Adj. R² ≈ 0.90, quantifying drivers of academic performance.\n· Visualized key positives (sleep, mental health, attendance, etc.) and negatives (social media, Netflix, etc.), delivering a decision-ready report."
+  },
+  {
+    "objectID": "Projects.html#sleep-health-lifestyle-analysis-regression-diagnostics-class-rank-top-1",
+    "href": "Projects.html#sleep-health-lifestyle-analysis-regression-diagnostics-class-rank-top-1",
+    "title": "Projects",
+    "section": "Sleep Health & Lifestyle Analysis (Regression & Diagnostics) Class Rank: Top 1%",
+    "text": "Sleep Health & Lifestyle Analysis (Regression & Diagnostics) Class Rank: Top 1%\n\n· Led a 6 member team; engineered transformations to address non-linearity and heteroscedasticity; linear regression reached Adj. R² ≈ 0.83 in R.\n· Produced diagnostics and targeted recommendations on sleep quality and activity."
+  },
+  {
+    "objectID": "Projects.html#datafest-2025-commercial-site-selection-competitive-analysis-entering-the-final-round-of-selection",
+    "href": "Projects.html#datafest-2025-commercial-site-selection-competitive-analysis-entering-the-final-round-of-selection",
+    "title": "Projects",
+    "section": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection",
+    "text": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection\n\n· Led a 5 member team; cleaned post-COVID leasing data in Python; identified Class A rise, suburban spike, and CBD recovery to guide site strategy.\n· Advanced to the second round, delivering a blended urban–suburban selection plan with visual evidence."
+  },
+  {
+    "objectID": "index.html#summary",
+    "href": "index.html#summary",
+    "title": "Yuyao Huang",
+    "section": "",
+    "text": "Collaborative, fast-learning Data Science major with strong communication and a bias for action. I thrive in cross-functional teams, take initiative, and adapt quickly to new challenges. Comfortable moving from data wrangling and analysis to modeling and lightweight pipelines, I use Python/R to convert messy data into clear insights and reproducible workflows. Spring 2026 and subsequent work in Data Science, Data Analytics, or Data Engineering to contribute immediately and deliver measurable value."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Yuyao Huang",
+    "section": "Skills",
+    "text": "Skills\n\nProgramming & Data: R, Python, Java, C++, SQL, Git\nStatistical & Analytical: Hypothesis Testing, ANOVA, Bootstrap, Bayesian Methods, Markov Chains\nMachine Learning & Modeling: Linear/Logistic Regression, Tree-based Models, Gradient Boosting, Clustering, Optimization, Cross-Validation, Performance Metrics (AUC, MSE, Accuracy), Time Series Analysis & Forecasting\nProductivity: Excel (advanced functions, pivot tables), PowerPoint, GeoPandas, Tableau, matplotlib\nLanguage: Chinese (Native), English (Advanced)"
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html",
+    "href": "Projects/Fires from Space: Australia.html",
+    "title": "Fires from Space: Australia",
+    "section": "",
+    "text": "Class Rank: 🏆 Top 1% | Role: Data Analyst & Geospatial Modeler"
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#project-overview",
+    "href": "Projects/Fires from Space: Australia.html#project-overview",
+    "title": "Fires from Space: Australia",
+    "section": "",
+    "text": "Using satellite data and geospatial analysis, our project explores the patterns and intensity of wildfires across Australia. From the sky to the ground, we visualize where fires are burning and what they reveal about climate, land use, and risk. Dive into our interactive maps and insights to better understand how fire shapes Australia’s landscape.\nClass Rank: Top 1%\n\nCollaborated with a 4 member team to analyze 240+ days of satellite and climate data; spatiotemporal analysis surfaced escalation patterns during the 2019-20 “Black Summer.”\nBuilt geospatial models and interactive dashboards (Python, Tableau) linking fire intensity, air quality, and land use, informing climate-risk and preparedness discussions."
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#using-advanced-satellite-data-and-geospatial-analysis-this-project-explores-the-patterns-and-intensity-of-wildfires-across-australia.-our-interactive-maps-and-data-driven-insights-provide-a-critical-window-into-how-fire-shapes-the-landscape-offering-a-deep-dive-into-the-escalation-patterns-of-the-historic-black-summer.",
+    "href": "Projects/Fires from Space: Australia.html#using-advanced-satellite-data-and-geospatial-analysis-this-project-explores-the-patterns-and-intensity-of-wildfires-across-australia.-our-interactive-maps-and-data-driven-insights-provide-a-critical-window-into-how-fire-shapes-the-landscape-offering-a-deep-dive-into-the-escalation-patterns-of-the-historic-black-summer.",
+    "title": "Fires from Space: Australia",
+    "section": "Using advanced satellite data and geospatial analysis, this project explores the patterns and intensity of wildfires across Australia. Our interactive maps and data-driven insights provide a critical window into how fire shapes the landscape, offering a deep dive into the escalation patterns of the historic “Black Summer.”",
+    "text": "Using advanced satellite data and geospatial analysis, this project explores the patterns and intensity of wildfires across Australia. Our interactive maps and data-driven insights provide a critical window into how fire shapes the landscape, offering a deep dive into the escalation patterns of the historic “Black Summer.”"
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#the-mission",
+    "href": "Projects/Fires from Space: Australia.html#the-mission",
+    "title": "Fires from Space: Australia",
+    "section": "🌍 The Mission",
+    "text": "🌍 The Mission\nFrom the sky to the ground, we visualize risk.\nUsing advanced satellite telemetry and geospatial analysis, Fire Storm explores the patterns and intensity of the devastating “Black Summer” wildfires across Australia. We move beyond simple fire counts to reveal how manageable fires escalated into uncontrollable events, offering critical insights into climate change, land use, and disaster preparedness.\n\n“We visualize where fires are burning and what they reveal about the air we breathe and the land we use.”"
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#the-analysis",
+    "href": "Projects/Fires from Space: Australia.html#the-analysis",
+    "title": "Fires from Space: Australia",
+    "section": "📊 The Analysis",
+    "text": "📊 The Analysis\nExplaining the crisis through data.\n\n🛰️ 01. The View from Space\nWe processed 240+ days of continuous satellite imagery. By analyzing heat signatures over time, we tracked not just the location, but the velocity and intensity of the fire spread across the continent.\n\n\n📈 02. The “Black Summer” Escalation\nOur models identified the precise moments where fire intensity spiked.\n\nKey Finding: We uncovered specific correlation patterns between high-intensity heat clusters and rapid, hazardous declines in air quality.\n\n\n\n🏘️ 03. Ground-Level Impact\nIt isn’t just about the burns; it’s about the aftermath.\n\nAir Quality: Visualized the drift of toxic smoke plumes into major urban centers.\nLand Use: Overlaid fire paths with agricultural and residential zoning to assess economic and social vulnerability."
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#methodology-tech-stack",
+    "href": "Projects/Fires from Space: Australia.html#methodology-tech-stack",
+    "title": "Fires from Space: Australia",
+    "section": "🛠️ Methodology & Tech Stack",
+    "text": "🛠️ Methodology & Tech Stack\nHow we built it.\n\n\n\n\n\n\n\nComponent\nTools & Methods\n\n\n\n\nBackend Analysis\nPython (Pandas, NumPy) for processing large-scale climate datasets.\n\n\nVisualization\nTableau for interactive dashboards and geospatial mapping.\n\n\nModeling\nSpatiotemporal analysis linking fire intensity to AQI (Air Quality Index).\n\n\nData Sources\nSatellite telemetry, government climate records, and land-use databases."
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#explore-the-interactive-map",
+    "href": "Projects/Fires from Space: Australia.html#explore-the-interactive-map",
+    "title": "Fires from Space: Australia",
+    "section": "🚀 Explore the Interactive Map",
+    "text": "🚀 Explore the Interactive Map\nDive into the data to see the escalation firsthand.\n[ LAUNCH DASHBOARD ] (Link to interactive Tableau visualization)"
+  },
+  {
+    "objectID": "Projects/Fires from Space: Australia.html#project-team-recognition",
+    "href": "Projects/Fires from Space: Australia.html#project-team-recognition",
+    "title": "Fires from Space: Australia",
+    "section": "👥 Project Team & Recognition",
+    "text": "👥 Project Team & Recognition\nAchievement 🏆 Ranked Top 1% of Class Awarded for technical depth, analytical execution, and compelling data storytelling.\nThe Team Collaborated with a 4-member research team to transform raw satellite imagery into actionable environmental intelligence, directly informing discussions on climate risk."
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "",
+    "text": "Class Rank: 🏆 Top 1% | Role: Team Lead & Statistical Analyst"
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#the-mission",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#the-mission",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "💤 The Mission",
+    "text": "💤 The Mission\nHow does our daily grind affect our nightly rest?\nWe spend roughly one-third of our lives asleep, yet the factors determining the quantity of that sleep remain complex. Using the Kaggle Sleep Health & Lifestyle dataset, this project applies rigorous statistical modeling to quantify how age, physical activity, and stress interact to determine sleep duration.\n\nWe moved beyond simple correlations to build a robust predictive model, identifying exactly which lifestyle changes yield the best returns on rest."
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#the-analysis",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#the-analysis",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "📉 The Analysis",
+    "text": "📉 The Analysis\nFrom raw data to refined insight.\n\n01. The Baseline Challenge\nDiagnosing the Model Our initial exploration revealed significant relationships, but the raw data violated key regression assumptions. Diagnostic plots highlighted non-linearity and heteroscedasticity (uneven variance), meaning a standard linear model was insufficient for accurate prediction.\n\n\n🛠️ 02. Engineering the Solution\nTransformation & Optimization To address these structural issues, we engineered features using Power Transformations (bcPower) to normalize predictors like Age, Stress, and Activity.\n\nVariable Selection: We utilized Stepwise Regression (AIC) to strip away noise, isolating only the most statistically significant predictors.\n\n\n\n🧩 03. The Final Model\nPrecision Tuning The optimized model achieved an Adjusted \\(R^2 \\approx 0.83\\), explaining 83% of the variance in sleep duration.\n\nOutcome: Residual errors were minimized to 0.046, creating a highly reliable framework for predicting sleep outcomes."
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#key-findings",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#key-findings",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "🔍 Key Findings",
+    "text": "🔍 Key Findings\nWhat the data says about sleeping better.\n\nQuality Equals Quantity: Sleep quality was the strongest positive predictor—better sleep depth significantly correlates with longer duration.\nMove to Snooze: Physical activity levels showed a strong positive correlation with sleep duration.\nThe Age Factor: Interestingly, age showed a slight negative correlation; as we get older, sleep duration tends to decrease marginally (-0.02% per unit increase).\nThe “Daily Steps” Paradox: While general physical activity is good, raw “Daily Steps” showed a negligible or slightly negative impact, suggesting that intensity of exercise matters more than just step count"
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#methodology-tech-stack",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#methodology-tech-stack",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "⚙️ Methodology & Tech Stack",
+    "text": "⚙️ Methodology & Tech Stack\nThe statistical engine.\n\n\n\n\n\n\n\nComponent\nTools & Methods\n\n\n\n\nLanguage\nR\n\n\nModeling\nLinear Regression, Stepwise Selection (AIC/BIC)\n\n\nFeature Eng.\nPower Transformations (Box-Cox), Log-Level Transformations\n\n\nDiagnostics\nResidual Analysis (Q-Q Plots, Scale-Location)"
+  },
+  {
+    "objectID": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#project-team-recognition",
+    "href": "Projects/Student Habits and Academic Success: A Behavioral Analysis.html#project-team-recognition",
+    "title": "Sleep Health & Lifestyle Analysis",
+    "section": "👥 Project Team & Recognition",
+    "text": "👥 Project Team & Recognition\nAchievement 🏆 Ranked Top 1% of Class Recognized for advanced diagnostic handling and robust model optimization.\nThe Team Led a 6-member research team to engineer these transformations and produce targeted lifestyle recommendations."
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "",
+    "text": "Class Rank: 🏆 Top 1% | Role: Data Analyst & Visual Storyteller"
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html#the-mission",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html#the-mission",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "📚 The Mission",
+    "text": "📚 The Mission\nGrades aren’t just about IQ. They’re about habits.\nWe often blame academic struggles on external factors like funding or background. But what if the secret to success lies in the small, daily choices we make? Using a dataset of 1,000 students, this project applies behavioral analysis and predictive modeling to answer a simple question: How do sleep, screen time, and study routines mathematically determine your GPA?\n\nWe moved beyond intuition to quantify exactly how much an hour of Netflix costs you in exam points."
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html#the-analysis",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html#the-analysis",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "📉 The Analysis",
+    "text": "📉 The Analysis\nDecoding the student lifestyle.\n\n01. The Hypothesis\nThe “Hidden” Variables Most research focuses on fixed demographics. We flipped the script to focus on controllable behaviors.\n\nInput: Sleep hours, study duration, attendance, social media usage, and Netflix consumption.\nTarget: Final Academic Performance (Exam Score).\n\n\n\n🧮 02. The Model\nStepwise Precision We didn’t just look for correlations; we built a prediction engine. Using Stepwise Multiple Regression, we isolated the variables that actually move the needle.\n\nPerformance: The final model achieved an Adjusted \\(R^2 \\approx 0.90\\), meaning we could explain nearly 90% of the variance in exam scores based purely on lifestyle habits.\n\n\n\n📊 03. The Visualization\nSeeing the Trade-offs We created a visual ecosystem to make the data digestible: * Correlation Heatmaps: Instantly highlighting the strongest positive (Study Time) and negative (Screen Time) drivers.\n\nComparative Bar Charts: contrasting high-performing vs. at-risk student profiles."
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html#key-findings",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html#key-findings",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "🔍 Key Findings",
+    "text": "🔍 Key Findings\nThe data-backed recipe for an A+.\n\nThe Attendance Multiplier: Attendance wasn’t just helpful; it was the single strongest predictor of success.\nThe “Binge” Tax: Passive screen time (Netflix/Social Media) showed a quantifiable negative correlation with exam scores—every hour spent binging had a measurable grade penalty.\nSleep is Study: Contrary to the “all-nighter” culture, data confirmed that adequate sleep is statistically linked to higher performance."
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html#methodology-tech-stack",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html#methodology-tech-stack",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "⚙️ Methodology & Tech Stack",
+    "text": "⚙️ Methodology & Tech Stack\nFrom behavioral data to actionable insight.\n\n\n\n\n\n\n\nComponent\nTools & Methods\n\n\n\n\nData Processing\nPython/R (Data Cleaning & Feature Selection)\n\n\nModeling\nStepwise Multiple Linear Regression\n\n\nVisualization\nCorrelation Matrices, Scatter Plots, Distribution Histograms\n\n\nDataset\nKaggle: Student Habits vs. Academic Performance (\\(n=1000\\))"
+  },
+  {
+    "objectID": "Projects/Sleep Health & Lifestyle Analysis.html#project-team-recognition",
+    "href": "Projects/Sleep Health & Lifestyle Analysis.html#project-team-recognition",
+    "title": "Student Habits and Academic Success: A Behavioral Analysis",
+    "section": "👥 Project Team & Recognition",
+    "text": "👥 Project Team & Recognition\nAchievement 🏆 Ranked Top 1% of Class Awarded for the precision of the predictive model and the clarity of the behavioral insights.\nThe Team Collaborated with 4 team menbers to translate complex behavioral data into a decision-ready report for academic support systems."
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "",
+    "text": "Competition: 🏆 DataFest 2025 (Finalist) | Role: Team Lead & Data Strategist"
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html#the-mission",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html#the-mission",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "🌐 The Mission",
+    "text": "🌐 The Mission\nIf work has changed, shouldn’t the workplace change too?\nThe “Return to Office” isn’t just about when—it’s about where. Using a massive dataset of commercial leases from 2018 to 2024, this project investigates how the COVID-19 pandemic fundamentally altered the DNA of the office market. We answer the critical question: Are companies actually abandoning the city, or are they just upgrading their address?\n\nWe analyzed the shift in square footage to prove that the future of work isn’t remote—it’s hybrid, high-quality, and geographically flexible."
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html#the-analysis",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html#the-analysis",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "🏙️ The Analysis",
+    "text": "🏙️ The Analysis\nTracking the migration of capital and companies.\n\n01. The “Flight to Quality”\nClass A vs. Class O We tracked lease volumes across building classes. The data revealed a decisive split:\n\nPre-Pandemic: Major leases were roughly split, with Class A holding ~65% of the market.\nThe Shift: Post-COVID, the share of Class A (premium) leases surged to over 70%. Companies are downsizing footprint but upgrading quality to entice workers back.\n\n\n\n🏡 02. The Suburban Surge\nCBD vs. The Burbs We analyzed the tension between Central Business Districts (CBD) and Suburban locations.\n\nThe Shock: During the height of the pandemic (2020), suburban leasing spiked to 60%, overtaking downtowns.\nThe Recovery: Post-2022, the market began correcting. CBD leasing is recovering, signaling a return to equilibrium rather than the “death of the city”.\n\n\n\n🗺️ 03. The Strategy\nThe “Hybrid” Portfolio Based on the data, we formulated a site selection strategy for 2025:\n\nBlend Locations: Maintain a core CBD presence for prestige while opening suburban satellites for flexibility.\nReposition Assets: Investors holding lower-quality (Class O) stock must renovate immediately to survive."
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html#visualizing-the-shift",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html#visualizing-the-shift",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "📊 Visualizing the Shift",
+    "text": "📊 Visualizing the Shift\nEvidence from the dataset.\nFigure 1: The “Flight to Quality” – Class A leasing volume recovers while Class O stagnates.\nFigure 2: The Location See-Saw – Visualizing the 2020 suburban spike and the 2023 downtown recovery."
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html#methodology-tech-stack",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html#methodology-tech-stack",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "⚙️ Methodology & Tech Stack",
+    "text": "⚙️ Methodology & Tech Stack\n\n\n\n\n\n\n\nComponent\nTools & Methods\n\n\n\n\nData Cleaning\nPython (Pandas) for processing raw lease transaction logs.\n\n\nAnalysis\nTime series analysis of lease volume and market share.\n\n\nStrategy\nSite selection modeling based on competitive density and quality tier.\n\n\nContext\nCommercial Real Estate (CRE) domain research."
+  },
+  {
+    "objectID": "Projects/DataFest 2025: Commercial Site Selection.html#project-team-recognition",
+    "href": "Projects/DataFest 2025: Commercial Site Selection.html#project-team-recognition",
+    "title": "DataFest 2025: Commercial Site Selection",
+    "section": "👥 Project Team & Recognition",
+    "text": "👥 Project Team & Recognition\nAchievement 🏆 DataFest 2025 Finalist Selected for the final round of competition for delivering a blended urban–suburban selection plan backed by clear visual evidence.\nThe Team Led a 5-member team to clean complex leasing data and identify the “Class A Rise” and “CBD Recovery” trends."
   }
 ]
