@@ -1,7 +1,7 @@
 ---
 title: "Sleep Health & Lifestyle Analysis"
 description: "Regression & Diagnostics - Class Rank: Top 1%"
-date: 2025-06-01
+date: 2025-06-10
 image: "sleep.jpg"
 about:
   template: solana
