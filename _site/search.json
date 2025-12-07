@@ -11,6 +11,48 @@
     "href": "index.html",
     "title": "Yuyao Huang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif (10)\n\n [1] 0.8765397 0.4542880 0.9082214 0.4941581 0.1167337 0.2549609 0.1441342\n [8] 0.5215475 0.6740071 0.3656262"
+    "text": "Download: CV\nCollaborative, fast-learning Data Science major with strong communication and a bias for action. I thrive in cross-functional teams, take initiative, and adapt quickly to new challenges. Comfortable moving from data wrangling and analysis to modeling and lightweight pipelines, I use Python/R to convert messy data into clear insights and reproducible workflows. Spring 2026 and subsequent work in Data Science, Data Analytics, or Data Engineering to contribute immediately and deliver measurable value."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Yuyao Huang",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | B.S. in Statistics and Data Science | Sep 2024 - June 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Yuyao Huang",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#fires-from-space-australia-geospatial-modeling-dashboards-class-rank-top-1",
+    "href": "index.html#fires-from-space-australia-geospatial-modeling-dashboards-class-rank-top-1",
+    "title": "Yuyao Huang",
+    "section": "Fires from Space: Australia (Geospatial Modeling & Dashboards) Class Rank: Top 1%",
+    "text": "Fires from Space: Australia (Geospatial Modeling & Dashboards) Class Rank: Top 1%\n\n· Collaborated with a 4 member team to analyze 240+ days of satellite and climate data; spatiotemporal analysis surfaced escalation patterns during the 2019-20 “Black Summer.”\n· Built geospatial models and interactive dashboards (Python, Tableau) linking fire intensity, air quality, and land use, informing climate-risk and preparedness discussions."
+  },
+  {
+    "objectID": "index.html#student-habits-and-academic-success-a-behavioral-analysis-predictive-modeling-class-rank-top-1",
+    "href": "index.html#student-habits-and-academic-success-a-behavioral-analysis-predictive-modeling-class-rank-top-1",
+    "title": "Yuyao Huang",
+    "section": "Student Habits and Academic Success: A Behavioral Analysis (Predictive Modeling) Class Rank: Top 1%",
+    "text": "Student Habits and Academic Success: A Behavioral Analysis (Predictive Modeling) Class Rank: Top 1%\n\n· Modeled a dataset of 1000 students; stepwise multiple regression achieved Adj. R² ≈ 0.90, quantifying drivers of academic performance.\n· Visualized key positives (sleep, mental health, attendance, etc.) and negatives (social media, Netflix, etc.), delivering a decision-ready report."
+  },
+  {
+    "objectID": "index.html#sleep-health-lifestyle-analysis-regression-diagnostics-class-rank-top-1",
+    "href": "index.html#sleep-health-lifestyle-analysis-regression-diagnostics-class-rank-top-1",
+    "title": "Yuyao Huang",
+    "section": "Sleep Health & Lifestyle Analysis (Regression & Diagnostics) Class Rank: Top 1%",
+    "text": "Sleep Health & Lifestyle Analysis (Regression & Diagnostics) Class Rank: Top 1%\n\n· Led a 6 member team; engineered transformations to address non-linearity and heteroscedasticity; linear regression reached Adj. R² ≈ 0.83 in R.\n· Produced diagnostics and targeted recommendations on sleep quality and activity."
+  },
+  {
+    "objectID": "index.html#datafest-2025-commercial-site-selection-competitive-analysis-entering-the-final-round-of-selection",
+    "href": "index.html#datafest-2025-commercial-site-selection-competitive-analysis-entering-the-final-round-of-selection",
+    "title": "Yuyao Huang",
+    "section": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection",
+    "text": "DataFest 2025: Commercial Site Selection (Competitive Analysis) Entering the final round of selection\n\n· Led a 5 member team; cleaned post-COVID leasing data in Python; identified Class A rise, suburban spike, and CBD recovery to guide site strategy.\n· Advanced to the second round, delivering a blended urban–suburban selection plan with visual evidence."
   }
 ]
