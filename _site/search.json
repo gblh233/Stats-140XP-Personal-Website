@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Yuyao Huang",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\nrunif (10)\n\n [1] 0.8765397 0.4542880 0.9082214 0.4941581 0.1167337 0.2549609 0.1441342\n [8] 0.5215475 0.6740071 0.3656262"
   }
 ]

@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d6109cc9-5de6-4fe8-a96d-817c2bd78b7e
+      url: https://yuyaohuang123.netlify.app/
